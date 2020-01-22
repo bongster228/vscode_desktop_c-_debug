@@ -2,7 +2,7 @@
   "tasks": [{
       "type": "shell",
       "label": "g++.exe build active file",
-      "command": "D:\\MinGW64\\mingw64\\bin\\g++.exe",
+      "command": "D:\\MinGW64\\mingw64\\bin\\g++.exe", // edit the path to the compiler
       "args": [
         "-g",
         "${file}",
@@ -16,7 +16,7 @@
     {
       "type": "shell",
       "label": "g++ build & run active file",
-      "command": "D:\\MinGW64\\mingw64\\bin\\g++.exe",
+      "command": "D:\\MinGW64\\mingw64\\bin\\g++.exe", // edit the path to the compiler
       "args": [
         "${file}",
         "-o",
