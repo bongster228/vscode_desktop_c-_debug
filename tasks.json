@@ -10,7 +10,7 @@
         "${fileDirname}\\${fileBasenameNoExtension}.exe"
       ],
       "options": {
-        "cwd": "D:\\MinGW64\\mingw64\\bin"
+        "cwd": "D:\\MinGW64\\mingw64\\bin" // edit path to the mingw bin folder
       }
     },
     {
@@ -23,7 +23,7 @@
         "${fileDirname}\\${fileBasenameNoExtension}.exe"
       ],
       "options": {
-        "cwd": "D:\\MinGW64\\mingw64\\bin"
+        "cwd": "D:\\MinGW64\\mingw64\\bin" // edit path to the mingw bin folder
       }
     }
   ],
